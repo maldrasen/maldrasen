@@ -6,7 +6,7 @@ how that goes.
 
 Currently Working On:
   - Learning Rust
-  - Manticore: A roguelike dungeon generator.
+  - Rhysh: A lewd Wizardry-like
 
 Getting in touch with me.
  - I'm mostly on Mastodon now https://meow.social/@maldrasen
