@@ -10,4 +10,5 @@ Currently Working On:
 
 Getting in touch with me.
  - I'm mostly on Mastodon now https://meow.social/@maldrasen
+ - Occational progress updates on my blog https://maldrasen.blogspot.com/
  - Send me an email, I don't give a fuck. Send dick pics. maldrasen@gmail.com 
