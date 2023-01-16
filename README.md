@@ -5,7 +5,7 @@ started a new project, a lewd dungeon crawler inspired by the old Wizardry games
 how that goes.
 
 Currently Working On:
-  - Rhysh: A lewd Wizardry-like
+  - [Rhysh](https://github.com/maldrasen/rhysh): A lewd Wizardry-like
 
 Getting in touch with me.
  - I'm mostly on Mastodon now https://meow.social/@maldrasen
