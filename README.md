@@ -5,7 +5,6 @@ started a new project, a lewd dungeon crawler inspired by the old Wizardry games
 how that goes.
 
 Currently Working On:
-  - Learning the Godot game engine
   - Rhysh: A lewd Wizardry-like
 
 Getting in touch with me.
